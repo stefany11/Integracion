@@ -18,6 +18,7 @@ public class HolaMundo {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo :D ");
+        System.out.println("HOLA MAMA!! :3 el viernes es mi cumpleaños espero mi regalo ¬¬");
     }
     
 }
